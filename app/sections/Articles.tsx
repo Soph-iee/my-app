@@ -57,7 +57,7 @@ const Articles = () => {
           >
             <Image
               src={profileImage}
-              className="bg-amber-200 w-full"
+              className="bg-amber-200 w-full cursor-pointer"
               alt="placeholder"
               height={70}
               width={70}
